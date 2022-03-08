@@ -2,6 +2,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 54 mins
+
 Python   35 mins         ███████████████░░░░░░░░░░   60.53 %
 INI      19 mins         ████████░░░░░░░░░░░░░░░░░   32.63 %
 Other    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
