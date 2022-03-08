@@ -2,11 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 54 mins
+Total Time: 4 hrs 31 mins
 
-Python   35 mins         ███████████████░░░░░░░░░░   60.53 %
-INI      19 mins         ████████░░░░░░░░░░░░░░░░░   32.63 %
-Other    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+RMarkdown   2 hrs 53 mins   ███████████████▓░░░░░░░░░   62.83 %
+Python      1 hr 10 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
+INI         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+R           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Other       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
