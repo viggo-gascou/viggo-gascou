@@ -1,12 +1,8 @@
-<p align="center">
-    <img width="auto" src ="https://github-readme-stats.vercel.app/api/wakatime?username=viggogascou)](https://github.com/anuraghazra/github-readme-stats">
-</p>
-
-
+📊 **Weekly Development Stats**
 <!--START_SECTION:waka-->
 
 ```text
-Python   35 mins         ███████████████░░░░░░░░░░   60.53 %
+🐍 Python   35 mins         ███████████████░░░░░░░░░░   60.53 %
 INI      19 mins         ████████░░░░░░░░░░░░░░░░░   32.63 %
 Other    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
 ```
