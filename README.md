@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viggo-gascou&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=viggo-gascou&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
+</p>
 
 <!---[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viggogascou)](https://github.com/anuraghazra/github-readme-stats)--->
 
