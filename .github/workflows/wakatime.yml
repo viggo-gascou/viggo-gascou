@@ -8,10 +8,12 @@ on:
 
 jobs:
   update-readme:
+    permissions: write-all
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: updated stats
