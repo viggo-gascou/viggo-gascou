@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2026%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -49,7 +47,7 @@ Mac                      9 hrs 10 mins       ███████████�
 ```
 
 
- Last Updated on 11/03/2022 00:34:40 UTC
+ Last Updated on 12/03/2022 00:29:44 UTC
 <!--END_SECTION:waka-->
 
 
