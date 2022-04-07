@@ -1,0 +1,27 @@
+name: snake game
+
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  
+jobs:
+  update-readme: 
+    name: generate-snake-game-from-github-contribution-grid
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v1.1.2
+      with:
+        # github user name to read the contribution graph from (**required**)
+        # using action context var `github.repository_owner` or specified user
+        github_user_name: ${{ github.repository_owner }}
+
+        # path of the generated gif file
+        # If left empty, the gif file will not be generated
+        gif_out_path: viggo-gascou/github-snake.gif
+
+        # path of the generated svg file
+        # If left empty, the svg file will not be generated
+        svg_out_path:
