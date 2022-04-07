@@ -1,7 +1,3 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/viggo-gascou/viggo-gascou/output/github-contribution-grid-snake.svg)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -56,7 +52,9 @@ Mac                      5 hrs 52 mins       ███████████�
 <!--END_SECTION:waka-->
 
 
-<!---
-viggo-gascou/viggo-gascou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--Snake Game-->
+![github contribution grid snake animation](https://raw.githubusercontent.com/viggo-gascou/viggo-gascou/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+<!--Snake Game-->
+
