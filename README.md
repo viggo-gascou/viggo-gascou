@@ -1,3 +1,7 @@
+![github contribution grid snake animation](https://raw.githubusercontent.com/viggo-gascou/viggo-gascou/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
