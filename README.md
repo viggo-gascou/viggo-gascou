@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2014%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -26,16 +28,18 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 48 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 48 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Kat                      1 hr 35 mins        ██████████████████████░░░   88.21% 
+kattis                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 48 mins        █████████████████████████   100.0%
 
 ```
 
