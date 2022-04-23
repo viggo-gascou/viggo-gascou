@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2037%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
