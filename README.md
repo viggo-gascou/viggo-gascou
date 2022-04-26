@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2048%20mins-blue)
 
 **I'm an Early 🐤** 
 
