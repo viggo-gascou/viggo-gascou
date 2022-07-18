@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2025%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -28,16 +28,20 @@ Sunday       34 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+RMarkdown                5 mins              ███████████████████░░░░░░   77.08% 
+Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   22.92%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+useful-R-functions       5 mins              ███████████████████░░░░░░   77.08% 
+fyp2022p02GroupB2        1 min               █████░░░░░░░░░░░░░░░░░░░░   19.83% 
+fyp2022p01g06            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09% 
+fyp2022p03GroupB2        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 mins              █████████████████████████   100.0%
 
 ```
 
